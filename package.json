@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/parser": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/traverse": "^7.7.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
